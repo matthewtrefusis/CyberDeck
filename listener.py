@@ -1,0 +1,1 @@
+# This script is designed to detect any data sent over the serial connection or wirelessly and handle the command and send it over the network to the main PC.

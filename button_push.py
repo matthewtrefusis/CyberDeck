@@ -1,0 +1,1 @@
+# This script is to detect button push events and send that data to the Raspberry Pi over a serial connection or wirelessly.
