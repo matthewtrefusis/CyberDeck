@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Raspberry Pi Pico 2 W](https://thepihut.com/products/raspberry-pi-pico-2?variant=54063366668673) | To process the button pushes | 1 | $6.37 | $6.37 | [The Pi Hut](https://thepihut.com/products/raspberry-pi-pico-2?variant=54063366668673) |
 | **Parts subtotal** | — | — | — | **$6.37** | — |
-| **Tax & shipping** | — | — | — | **$3.80** | — |
-| **Total** | — | — | — | **$10.17** | — |
+| **Tax & shipping** | — | — | — | **$5.04** | — |
+| **Total** | — | — | — | **$11.41** | — |
 
-$19.83 left of the tier's funding.
+$18.59 left of the tier's funding.
