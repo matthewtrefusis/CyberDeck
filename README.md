@@ -1,1 +1,3 @@
 # CyberDeck
+
+The CyberDeck is my plan to build a personalized, control pad for my desk using a pre-owned Raspberry Pi 3 and a custom circuit board I design myself. Instead of buying an expensive, plastic stream deck, I want to create a cooler, custom version that lets me control my computer, instantly muting my mic, launching my favourite apps, or triggering shortcuts, all with the tap of a mechanical keyboard button. What makes it completely mine is that I'm building it from scratch, picking out my favourite mechanical switches, routing the board myself, and writing the code so it does exactly what I need it to do for my daily setup.
